@@ -5,8 +5,8 @@ Eu me chamo Gabriel e é um prazer conhecê-lo(a)!
 Movido por grandes desafios, problemas complexos e escala de solução, entendi, após ter me graduado em Engenharia Mecânica e vivido uma experiência muito intensa e enriquecedora em gestão pública, que a área de desenvolvimento de software é o meu lugar, pois acredito que é neste lugar que conseguirei unir da melhor forma os três pontos citados acima. Além de ser a área que eu acredito que irá extrair de mim aquilo que considero ter de melhor: raciocínio lógico, capacidade analítica e visão sistêmica.
 
 - :computer: Estou atualmente finalizando um bootcamp de +1200h em desenvolvimento web full stack
-- :books: Estou estudando atualmente Docker e POO
-- :mag: Estou buscando atuar como desenvolvedor back-end
+- :books: Estou estudando atualmente Python
+- :mag: Estou buscando atuar como desenvolvedor full stack ou back-end
 
 ### Ferramentas:
 
